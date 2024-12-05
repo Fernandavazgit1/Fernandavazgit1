@@ -1,2 +1,4 @@
-## Fernanda Vaz
-[![Anurag's GitHub stats](https://github.com/Fernandavazgit1)](https://github.com/Fernandavazgit1/github-readme-stats)
+## 🌺Fernanda Vaz
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fernandavazgit1&show_icons=true&theme=radical)
+
+
