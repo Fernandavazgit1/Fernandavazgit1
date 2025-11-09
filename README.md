@@ -31,17 +31,7 @@
 
 
 
----
 
-## 🎵 Ouvindo agora no Spotify
-
-<div align="center">
-  
-[![Spotify](https://img.shields.io/badge/🎧_Ouça_Minhas_Músicas-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/nandinha.duarte7)
-
-</div>
-
----
 
 
 
