@@ -1,14 +1,3 @@
-<div align="center">
-  
-# 🌺 Bem-vindo ao meu perfil! 🌺
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Fernanda+Vaz!+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Apaixonada+por+tecnologia+%F0%9F%92%BB" alt="Typing SVG" />
-
-</div>
-
-</div>
-
----
 
 ## 📊 Estatísticas do GitHub
 
