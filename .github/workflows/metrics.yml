@@ -12,10 +12,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
+          - uses: lowlighter/metrics@latest
+          with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year # Pode mudar para 'half-year' se quiser menor
+          plugin_isocalendar_duration: full-year
+          config_theme: dracula # Deixa o fundo escuro com tons arroxeados
