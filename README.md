@@ -58,6 +58,7 @@
 
 ### Estatísticas do GitHub
 
+![Meu Calendário Isométrico](metrics.plugin.isocalendar.svg)
 
 ### Contribuições (snake)
 
